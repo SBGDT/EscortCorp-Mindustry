@@ -1,5 +1,4 @@
-
-![EscortCorp Banner](EscortCorp-Mindustry/EscortCorp network - join the battle (1).png)
+![EscortCorp Banner](assets/banner.jpg)
 
 # 🚀 EscortCorp – Mindustry Server Network
 
