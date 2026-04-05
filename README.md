@@ -1,5 +1,3 @@
-![EscortCorp Banner](EscortCorp-Mindustry/EscortCorp-network-Join-the-battle-(1).jpg)
-
 # 🚀 EscortCorp – Mindustry Server Network
 
 Welcome to EscortCorp, a multi-mode Mindustry server network.
