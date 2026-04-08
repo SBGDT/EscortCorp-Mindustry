@@ -4,13 +4,13 @@ import 'firebase/database';  // Import Firebase Database if needed
 
 // Initialize Firebase
 const firebaseConfig = {
-  apiKey: 'YOUR_API_KEY',
-  authDomain: 'YOUR_AUTH_DOMAIN',
+  apiKey: 'AIzaSyAX6MHf52mQe10ZOZ1cnqxzLnZblUVQVO8',
+  authDomain: 'escortcorp-mindustry.firebaseapp.com',
   databaseURL: 'YOUR_DATABASE_URL',
-  projectId: 'YOUR_PROJECT_ID',
-  storageBucket: 'YOUR_STORAGE_BUCKET',
-  messagingSenderId: 'YOUR_MESSAGING_SENDER_ID',
-  appId: 'YOUR_APP_ID'
+  projectId: 'escortcorp-mindustry',
+  storageBucket: 'escortcorp-mindustry.firebasestorage.app',
+  messagingSenderId: '629401476453',
+  appId: '1:629401476453:web:351c4d392fed459aa6158c'
 };
 
 if (!firebase.apps.length) {
